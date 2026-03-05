@@ -3,15 +3,15 @@
 
 Welcome to my central vault for all things **RetroAchievements**! 
 
-If you are a completionist, a hardcore gamer, or just looking for a new way to experience your favorite classic games, you are in the right place. Here I document my custom community challenges (like the RPG Skill Trees) and step-by-step guides to mastering difficult achievement sets.
+If you are a completionist, a hardcore gamer, or just looking for a new way to experience your favorite classic games, you are in the right place. Here I document my custom community challenges and step-by-step guides to mastering difficult achievement sets.
 
 ---
 
 ## 🗡️ Custom Challenges
 Unique, self-imposed rulesets designed to turn classic games into entirely new experiences using the RetroAchievements framework.
 
-* 🧟 **[Resident Evil (PSX) - The RPG Skill Tree Challenge](Resident-Evil-RPG-Challenge.md)**
-  * *(Coming soon: The complete rulebook and achievement path!)*
+* 🧟 **[Resident Evil: The Last Challenge](Resident-Evil-The-Last-Challenge.md)**
+  * *The ultimate Resident Evil marathon! A massive progression tree challenge mapping the exact order to 100% (Master) the entire franchise from RE0 to RE9, including prerequisites and remakes.*
 
 ---
 
