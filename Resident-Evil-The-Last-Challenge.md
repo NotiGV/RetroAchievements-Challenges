@@ -15,7 +15,7 @@ Let's get those achievements!! :D
 ---
 
 ## 📜 The Rules of the Challenge (Read This!)
-Before we start the timeline, you need to understand how we progress. You will need a RetroAchievements account. If you don't know how to set it up in your emulators (like Dolphin or DuckStation), check out my quick setup guide here: **[RetroAchievements: The Complete Setup Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3648028210)**. If you are already set up, ignore this! :D
+Before we start the timeline, you need to understand how we progress. You will need a RetroAchievements account. If you don't know how to set it up in your emulators (like Dolphin or DuckStation), check out my quick setup guide here: **[RetroAchievements: The Complete Setup Guide](RetroAchievements-Setup-Guide.md)**. If you are already set up, ignore this! :D
 
 **The Terminology:**
 * **Beaten vs Mastered:** When you finish a game's story, it's "Beaten". But to progress in this challenge, you must Master the game (100% of the achievements / Platinum). *Note: If this is too hardcore for you, you can play just to beat them, but this guide assumes we are going for 100%!*
