@@ -88,15 +88,15 @@ Because touching everything in a dungeon full of traps is a brilliant idea!
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Stockholm Syndrome** | You're actually starting to like the smell of rotting flesh and despair. | Welcome to the dungeons... |
-| [🖼️] | **Intrusive Thoughts Won** | You just HAD to jump down that disgusting hole, didn't you? | Curiosity killed the cat... |
-| [🖼️] | **Schizophrenia Simulator** | The sword is talking to me, and it makes some really good points. | Find the Miasma. |
-| [🖼️] | **Internship at Doom LLC** | Serving a floating, burning, trash-talking head. What a great career move. | Become a servant of Nas'hrah. |
-| [🖼️] | **The Pointy Stick of Doom** | Finally, a weapon worthy of all this suffering. | Find the Sergal Spear. |
-| [🖼️] | **Heartburn Relief** | That's one way to solve the stomach ache of an ancient god. | Kill the last traces of the God of the Depths. |
-| [🖼️] | **The Babysitter** | Somehow, you managed to keep Buckman's useless crew breathing. | Save all of Buckman's party. |
-| [🖼️] | **Wake Me Up Inside** | Disturbing the slumber of the ascended one. Nothing could possibly go wrong. | Awaken the remnants of Alll-Mer. |
-| [🖼️] | **Doki Doki Dungeon Club** | Because what this game really needed was a high school romance simulator. | Get to the prom in Dungeon Nights mode. |
+| ![fear-and-hunger-funger-achievements-Stockholm Syndrome-notigv](https://github.com/user-attachments/assets/61128158-1d96-4046-ae49-5d08b5d16f9b)| **Stockholm Syndrome** | You're actually starting to like the smell of rotting flesh and despair. | Welcome to the dungeons... |
+| ![fear-and-hunger-funger-achievements-Intrusive Thoughts Won-notigv](https://github.com/user-attachments/assets/6494f6ee-db17-455b-a39a-0244f6152fb2)| **Intrusive Thoughts Won** | You just HAD to jump down that disgusting hole, didn't you? | Curiosity killed the cat... |
+| ![fear-and-hunger-funger-achievements-Schizophrenia Simulator-notigv](https://github.com/user-attachments/assets/08e0b265-fd32-451d-9db1-b3f0ec50f521)| **Schizophrenia Simulator** | The sword is talking to me, and it makes some really good points. | Find the Miasma. |
+| ![fear-and-hunger-funger-achievements-Internship at Doom LLC-notigv](https://github.com/user-attachments/assets/6b68574d-a309-425a-bf0c-ef31d0cac383)| **Internship at Doom LLC** | Serving a floating, burning, trash-talking head. What a great career move. | Become a servant of Nas'hrah. |
+| ![fear-and-hunger-funger-achievements-The Pointy Stick of Doom-notigv](https://github.com/user-attachments/assets/c09f73bd-9837-4df6-8f46-7706c022fbfa)| **The Pointy Stick of Doom** | Finally, a weapon worthy of all this suffering. | Find the Sergal Spear. |
+| ![fear-and-hunger-funger-achievements-Heartburn Relief-notigv](https://github.com/user-attachments/assets/963052e1-72d2-49e4-8f27-0b16e65a262b)| **Heartburn Relief** | That's one way to solve the stomach ache of an ancient god. | Kill the last traces of the God of the Depths. |
+|![fear-and-hunger-funger-achievements-The Babysitter-notigv](https://github.com/user-attachments/assets/b16f8c62-a8b9-4af0-bf08-7176e2fd704e)| **The Babysitter** | Somehow, you managed to keep Buckman's useless crew breathing. | Save all of Buckman's party. |
+| ![fear-and-hunger-funger-achievements-	Wake Me Up Inside-notigv](https://github.com/user-attachments/assets/15f9b9eb-47d2-4dac-9edd-c0f89318ebf0)| **Wake Me Up Inside** | Disturbing the slumber of the ascended one. Nothing could possibly go wrong. | Awaken the remnants of Alll-Mer. |
+| ![fear-and-hunger-funger-achievements-Doki Doki Dungeon Club-notigv](https://github.com/user-attachments/assets/51d2ef62-d754-4511-a66d-110c81c8d76e)| **Doki Doki Dungeon Club** | Because what this game really needed was a high school romance simulator. | Get to the prom in Dungeon Nights mode. |
 
 ---
 
