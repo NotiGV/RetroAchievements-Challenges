@@ -70,16 +70,16 @@ Where "happily ever after" goes to die. :D
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Nope, I'm Out!** | Turning around and running away. The only smart decision in the entire game. | Reach Ending E - Escape. |
-| [🖼️] | **Divine Imposter Syndrome** | Look at me. I am the God now. | Reach Ending D - A New God. |
-| [🖼️] | **Our Lady of Terror** | Congratulations, you've doomed humanity to a new era of pain. | Reach Ending A - The God of Fear & Hunger. |
-| [🖼️] | **Early Retirement** | Cash the check and disappear before they start asking questions. | Reach Ending S - Mercenary. |
-| [🖼️] | **Simping for Le'garde** | You actually believed he was the savior. Cute. | Reach Ending C - The Yellow King. |
-| [🖼️] | **A Bloody Prophecy** | Sitting on a throne of corpses just hits different. | Reach Ending C-II - The Prophecy. |
-| [🖼️] | **Embracing the Void** | At least it's quiet down here in the abyss. | Reach Ending B - The Older One. |
-| [🖼️] | **The True Heroine** | You actually did your job. The realm owes you one. | Reach Ending S - Knight. |
-| [🖼️] | **Knowledge is Power** | Ascending the ranks of dark magic, one gruesome ritual at a time. | Reach Ending S - Dark Priest. |
-| [🖼️] | **Apex Predator** | Rip and tear until it is done... oh wait, wrong game. | Reach Ending S - Outlander. |
+| ![fear-and-hunger-funger-achievements-	Nope, I&#39;m Out!-notigv](https://github.com/user-attachments/assets/2ed5985c-435a-4b8a-ace5-42c229dd668b)| **Nope, I'm Out!** | Turning around and running away. The only smart decision in the entire game. | Reach Ending E - Escape. |
+| ![fear-and-hunger-funger-achievements-	Divine Imposter Syndrome-notigv](https://github.com/user-attachments/assets/b3a5ef04-a163-41d4-9a8e-c8ff62558f1e)| **Divine Imposter Syndrome** | Look at me. I am the God now. | Reach Ending D - A New God. |
+| ![fear-and-hunger-funger-achievements-	Our Lady of Terror-notigv](https://github.com/user-attachments/assets/f9bfd12e-66ca-4060-b6f6-53d181fe7bb4)| **Our Lady of Terror** | Congratulations, you've doomed humanity to a new era of pain. | Reach Ending A - The God of Fear & Hunger. |
+| ![fear-and-hunger-funger-achievements-	Early Retirement-notigv](https://github.com/user-attachments/assets/4d320f13-c7bd-4c18-8bb2-6cc04fd19d48)| **Early Retirement** | Cash the check and disappear before they start asking questions. | Reach Ending S - Mercenary. |
+| ![fear-and-hunger-funger-achievements-Simping for Le&#39;garde-notigv](https://github.com/user-attachments/assets/9914e62a-81a6-46fd-b10a-d39a59a09273)| **Simping for Le'garde** | You actually believed he was the savior. Cute. | Reach Ending C - The Yellow King. |
+| ![fear-and-hunger-funger-achievements-	A Bloody Prophecy-notigv](https://github.com/user-attachments/assets/7fa1fcdf-9de2-4219-a5aa-f32ab303c075)| **A Bloody Prophecy** | Sitting on a throne of corpses just hits different. | Reach Ending C-II - The Prophecy. |
+| ![fear-and-hunger-funger-achievements-	Embracing the Void-notigv](https://github.com/user-attachments/assets/488cf5ae-b675-411c-8ec5-b1d72fd0616d)| **Embracing the Void** | At least it's quiet down here in the abyss. | Reach Ending B - The Older One. |
+| ![fear-and-hunger-funger-achievements-	The True Heroine-notigv](https://github.com/user-attachments/assets/96414121-0230-4cf7-9ff3-076f0046da3a)| **The True Heroine** | You actually did your job. The realm owes you one. | Reach Ending S - Knight. |
+| ![fear-and-hunger-funger-achievements-	Knowledge is Power-notigv](https://github.com/user-attachments/assets/748071c0-45c4-4268-8266-e33a20972d03)| **Knowledge is Power** | Ascending the ranks of dark magic, one gruesome ritual at a time. | Reach Ending S - Dark Priest. |
+| ![fear-and-hunger-funger-achievements-	Apex Predator-notigv](https://github.com/user-attachments/assets/d5362400-c356-4051-92f4-c30bf8c8d3aa)| **Apex Predator** | Rip and tear until it is done... oh wait, wrong game. | Reach Ending S - Outlander. |
 
 ---
 
