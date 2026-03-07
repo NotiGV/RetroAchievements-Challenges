@@ -105,13 +105,13 @@ Friends are hard to come by. Most of them will either eat you, leave you or are 
 
 | Icon | Achievement Name | Description | Real Condition |
 | :---: | :--- | :--- | :--- |
-| [🖼️] | **Who's a Good Boy?** | Playing fetch in the dungeon. What could possibly go wrong? | Throw a stick to the Wolves. |
-| [🖼️] | **Who's a Good Girl?** | The only loyal companion in this godforsaken place. Make sure to pet her. | Recruit Moonless. |
-| [🖼️] | **Worst Babysitter of the Year** | You traded a child for a neat book. Hope you're proud. | Give the Girl to Pocketcat. |
-| [🖼️] | **They Grow Up So Fast** | Ah, the miracle of life... if life was a demonic abomination. | Obtain the Demon Kid. |
-| [🖼️] | **Spooky Scary Skeletons** | He's working himself to the bone for you. Literally. | Raise a Skeleton using Necromancy. |
-| [🖼️] | **Oshiete, oshiete yo...** | Tokyo is far away, but the ghouls are right here eating corpses. | Raise a Ghoul using Necromancy. |
-| [🖼️] | **Iron Deficiency?** | Minecraft rules don't apply here, but the blood splatter is just as blocky. | Summon a Blood Golem. |
+| ![fear-and-hunger-funger-achievements-Who&#39;s a Good Boy?-notigv](https://github.com/user-attachments/assets/08915dfb-6c8d-48f2-8f30-6793ae78ce90)| **Who's a Good Boy?** | Playing fetch in the dungeon. What could possibly go wrong? | Throw a stick to the Wolves. |
+| ![fear-and-hunger-funger-achievements-	Who&#39;s a Good Girl?-notigv](https://github.com/user-attachments/assets/13c1b7f9-0698-41e9-9bbe-63bcccbfd44e)| **Who's a Good Girl?** | The only loyal companion in this godforsaken place. Make sure to pet her. | Recruit Moonless. |
+| ![fear-and-hunger-funger-achievements-Worst Babysitter of the Year-notigv](https://github.com/user-attachments/assets/e93de8f8-af19-455e-82ab-ee407adc0116)| **Worst Babysitter of the Year** | You traded a child for a neat book. Hope you're proud. | Give the Girl to Pocketcat. |
+| ![fear-and-hunger-funger-achievements-They Grow Up So Fast-notigv](https://github.com/user-attachments/assets/aca10e93-e6fc-46ae-974e-1a1587cda706)| **They Grow Up So Fast** | Ah, the miracle of life... if life was a demonic abomination. | Obtain the Demon Kid. |
+| ![fear-and-hunger-funger-achievements-Spooky Scary Skeletons-notigv](https://github.com/user-attachments/assets/3ef506d1-a9cd-492d-a504-1592ac40e86e)| **Spooky Scary Skeletons** | He's working himself to the bone for you. Literally. | Raise a Skeleton using Necromancy. |
+| ![fear-and-hunger-funger-achievements-Oshiete, oshiete yo -notigv](https://github.com/user-attachments/assets/819d2529-8a17-44f8-b45c-db10796ac664)| **Oshiete, oshiete yo...** | Tokyo is far away, but the ghouls are right here eating corpses. | Raise a Ghoul using Necromancy. |
+| ![fear-and-hunger-funger-achievements-Iron Deficiency?-notigv](https://github.com/user-attachments/assets/188f9f29-4494-4678-89ea-60eed97404fc)| **Iron Deficiency?** | Minecraft rules don't apply here, but the blood splatter is just as blocky. | Summon a Blood Golem. |
 
 ---
 
