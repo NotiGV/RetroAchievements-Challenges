@@ -5,6 +5,10 @@
 
 A complete, fan-made achievement list that truly captures the punishing, sarcastic and unforgiving nature of the Fear & Hunger dungeons. :D
 
+📺 **Watch the Video Showcase Here:**
+
+[![Fear & Hunger Achievements](https://img.youtube.com/vi/0BDiP1FCnOU/maxresdefault.jpg)](https://youtu.be/0BDiP1FCnOU)
+
 Includes 74 custom achievements divided by categories to track your descent into madness. Let's embrace the suffering!! :D
 
 ---
