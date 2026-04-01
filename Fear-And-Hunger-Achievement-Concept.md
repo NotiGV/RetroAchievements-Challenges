@@ -1,7 +1,7 @@
 ![fear-and-hunger-funger-achievements-set-notigv](https://github.com/user-attachments/assets/2fe32807-d730-4265-a345-5f0c6602f862)
 
 # Fear & Hunger: The Ultimate Achievement Set
-**By NotiGV**
+**By ThatGVguy**
 
 A complete, fan-made achievement list that truly captures the punishing, sarcastic and unforgiving nature of the Fear & Hunger dungeons. :D
 
@@ -161,7 +161,7 @@ Hope you enjoyed the list!! :D
 ---
 
 >
-> ***Disclaimer & Credits:*** This conceptual achievement list, including its structure, titles, and humorous descriptions, was designed and written by NotiGV as a tribute to the punishing experience of the dungeons.
+> ***Disclaimer & Credits:*** This conceptual achievement list, including its structure, titles, and humorous descriptions, was designed and written by ThatGVguy as a tribute to the punishing experience of the dungeons.
 >
 > ***Asset & Property Rights:*** Fear & Hunger, its universe, lore, characters, and in-game mechanics are the sole intellectual property of Miro Haverinen. This guide is a 100% unofficial, fan-made concept created purely for community entertainment and discussion. It does not reflect any official updates or actual Steam achievements.
 >
