@@ -34,9 +34,9 @@ All these challenges and guides are actively tested and played on my personal Li
 ## 🌐 Find Me Elsewhere
 Want to see my unlocked badges, read these guides with rich formatting, or check out my Bazzite/SteamOS technical fixes? Find me here:
 
-* 👾 **[RetroAchievements Profile](https://retroachievements.org/user/NotiGV)**
-* 📝 **[Medium Blog](https://medium.com/@NotiGV)**
-* 🎮 **[Steam Guides](https://steamcommunity.com/id/NotiGV/myworkshopfiles/?section=guides)**
-* 🌳 **[Linktree (All my links)](https://linktr.ee/NotiGV)**
+* 👾 **[RetroAchievements Profile](https://retroachievements.org/user/ThatGVguy)**
+* 📝 **[Medium Blog](https://medium.com/@ThatGVguy)**
+* 🎮 **[Steam Guides](https://steamcommunity.com/id/ThatGVguy/myworkshopfiles/?section=guides)**
+* 🌳 **[Linktree (All my links)](https://linktr.ee/ThatGVguy)**
 
 *If you try any of these challenges, let me know! I'd love to see your progress! :D*
