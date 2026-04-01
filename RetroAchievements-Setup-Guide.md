@@ -1,7 +1,7 @@
 ![retroachievements-games-emulation-notigv](https://github.com/user-attachments/assets/41fec4a5-89ea-4194-8ada-d77d73b79b92)
 
 # RetroAchievements: The Complete Setup Guide (RetroArch, PCSX2, DuckStation & More)
-**By NotiGV**
+**By ThatGVguy**
 
 A fast, no-nonsense guide to setting up RetroAchievements on all major emulators. Stop guessing and start unlocking trophies! :D
 
