@@ -12,17 +12,17 @@ The train dropped you off, but the nightmare is just beginning. Here are the mil
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **Welcome to Termina** | The train ride was just the beginning of your misery. Enjoy the festival! | Die for the first time. |
-| [Icon] | **The Moon is Laughing** | Rigged from the start. Did you really think Rher would play fair? | Fail your first coin flip. |
-| [Icon] | **Double the Disappointment** | Two shiny coins just mean twice the embarrassment when you lose. | Fail a coin flip using a Lucky Coin. |
-| [Icon] | **Festival of Failures** | Lady Luck skipped this town entirely. Just accept your fate. | Fail 5 coin flips in a single run. |
-| [Icon] | **Crazy Dave Warned You** | There are much worse things hidden in the flora than just zombies. | Step on a hidden trap in the woods. |
-| [Icon] | **Welcome to the 20th Century** | Turns out ancient magic doesn't make you bulletproof. | Get shot by a Rifleman or The Mob. |
-| [Icon] | **Black Lung** | Survived eldritch horrors and cultists, only to be taken out by a cough and a fever. | Die from an untreated infection. |
-| [Icon] | **Chasing the Dragon** | Just one more hit to steady the nerves... | Become addicted to Heroin. |
-| [Icon] | **Look at me, I'm Olivia now** | On the bright side, you'll never have to worry about buying shoes again. | Lose both legs on your main character (playing as anyone except Olivia). |
-| [Icon] | **Bankruptcy** | The ultimate market crash. You watched the salaryman's career get permanently cut short. | Witness Tanaka's death for the first time. |
-| [Icon] | **The Mage and the Dungeon** | Be proud; many have failed this test. Or just died of hunger. | Survive the dungeon in O'saa's backstory. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Welcome to Termina](https://github.com/user-attachments/assets/b541dd2b-f6b3-4627-901c-8750d94ef555)| **Welcome to Termina** | The train ride was just the beginning of your misery. Enjoy the festival! | Die for the first time. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Moon is Laughing](https://github.com/user-attachments/assets/89eb9fc8-2125-421e-837f-623a5b9194bd)| **The Moon is Laughing** | Rigged from the start. Did you really think Rher would play fair? | Fail your first coin flip. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Double the Disappointment](https://github.com/user-attachments/assets/54b9ad0c-8298-4352-86cc-f1a695a00293)| **Double the Disappointment** | Two shiny coins just mean twice the embarrassment when you lose. | Fail a coin flip using a Lucky Coin. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Festival of Failures](https://github.com/user-attachments/assets/3e7ef62c-4c62-4f01-905e-f1aaf9be601a)| **Festival of Failures** | Lady Luck skipped this town entirely. Just accept your fate. | Fail 5 coin flips in a single run. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Crazy Dave Warned You](https://github.com/user-attachments/assets/1b422039-496f-4ca6-aeb3-c4a2a997b93a)| **Crazy Dave Warned You** | There are much worse things hidden in the flora than just zombies. | Step on a hidden trap in the woods. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Welcome to the 20th Century](https://github.com/user-attachments/assets/93320057-69f3-4b6d-a1d8-14faf5f881f2)| **Welcome to the 20th Century** | Turns out ancient magic doesn't make you bulletproof. | Get shot by a Rifleman or The Mob. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Black Lung](https://github.com/user-attachments/assets/0307db3f-f91b-4838-9acf-8eb5e21d93b7)| **Black Lung** | Survived eldritch horrors and cultists, only to be taken out by a cough and a fever. | Die from an untreated infection. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Chasing the Dragon](https://github.com/user-attachments/assets/3d1b6643-5dce-48d6-b9e4-8ac5ab5b7c32)| **Chasing the Dragon** | Just one more hit to steady the nerves... | Become addicted to Heroin. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Look at me, I&#39;m Olivia now](https://github.com/user-attachments/assets/0d85b116-926a-4d0b-ab22-ad7a91a44ea0)| **Look at me, I'm Olivia now** | On the bright side, you'll never have to worry about buying shoes again. | Lose both legs on your main character (playing as anyone except Olivia). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Bankruptcy](https://github.com/user-attachments/assets/0c61cde3-76ec-4671-94d6-514adf0fe4a6)| **Bankruptcy** | The ultimate market crash. You watched the salaryman's career get permanently cut short. | Witness Tanaka's death for the first time. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Mage and the Dungeon](https://github.com/user-attachments/assets/24db212d-a8e8-4c10-ab7d-4fa19de05aa0)| **The Mage and the Dungeon** | Be proud; many have failed this test. Or just died of hunger. | Survive the dungeon in O'saa's backstory. |
 
 ### 👹 The Welcoming Committee & The Moonscorched
 
