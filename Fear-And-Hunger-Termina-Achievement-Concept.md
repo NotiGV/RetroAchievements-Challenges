@@ -16,7 +16,7 @@ The train dropped you off, but the nightmare is just beginning. Here are the mil
 | [Icon] | **The Moon is Laughing** | Rigged from the start. Did you really think Rher would play fair? | Fail your first coin flip. |
 | [Icon] | **Double the Disappointment** | Two shiny coins just mean twice the embarrassment when you lose. | Fail a coin flip using a Lucky Coin. |
 | [Icon] | **Festival of Failures** | Lady Luck skipped this town entirely. Just accept your fate. | Fail 5 coin flips in a single run. |
-| [Icon] | **Crazy Dave Warned You** | There are much worse things hidden in the flora than just zombies. | Step on a hidden bear trap in the woods. |
+| [Icon] | **Crazy Dave Warned You** | There are much worse things hidden in the flora than just zombies. | Step on a hidden trap in the woods. |
 | [Icon] | **Welcome to the 20th Century** | Turns out ancient magic doesn't make you bulletproof. | Get shot by a Rifleman or The Mob. |
 | [Icon] | **Black Lung** | Survived eldritch horrors and cultists, only to be taken out by a cough and a fever. | Die from an untreated infection. |
 | [Icon] | **Chasing the Dragon** | Just one more hit to steady the nerves... | Become addicted to Heroin. |
