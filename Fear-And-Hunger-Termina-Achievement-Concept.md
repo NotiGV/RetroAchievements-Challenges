@@ -5,7 +5,7 @@
 **By ThatGVguy**
 
 A complete, fan-made achievement list that truly captures the punishing, sarcastic and unforgiving nature of the Festival of Termina. :D
-Includes 93 custom achievements divided by categories to track your descent into madness. Let's embrace the suffering!! :D
+Includes 94 custom achievements divided by categories to track your descent into madness. Let's embrace the suffering!! :D
 
 ### 🩸 Welcome to Prehevil (Events, RNG & Early Demise)
 
