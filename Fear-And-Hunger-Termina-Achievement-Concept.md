@@ -81,21 +81,21 @@ The festival rules are clear: there can be only one winner. Sometimes you don't 
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **Taking Out the Trash** | He absolutely had it coming. You just did Prehevil a massive favor. | Defeat Caligura in his human form. |
-| [Icon] | **Karoshi** | He was probably going to die of overwork anyway. You just sped up the process. | Defeat Tanaka in his human form. |
-| [Icon] | **Dishonorable Discharge** | He really thought he was the main character of a war movie. You proved him wrong. | Defeat Pav in his human form. |
-| [Icon] | **Restraining Order** | An extreme, yet highly effective way to deal with an obsessive stalker. | Defeat Samarie in her human form. |
-| [Icon] | **End of the Bloodline** | All those fancy acrobatics and ancient Vinland heritage couldn't outsmart a bullet. | Defeat August in his human form. |
-| [Icon] | **Macabre Masterchef** | His culinary skills were questionable anyway. Time to cancel the cooking show. | Defeat Henryk in his human form. |
-| [Icon] | **Uvuvwevwevwe... O'saa?** | I'm not even going to try pronouncing his full name. Just hit him. | Defeat O'saa in his human form. |
-| [Icon] | **Not Humanity's Strongest** | Definitely the wrong Ackerman. No spin attacks or ODM gear will save him here. | Defeat Levi in his human form. |
-| [Icon] | **Wait, You Can Walk?!** | The absolute betrayal of seeing your clone doing sprints while you're stuck in a wheelchair. | Defeat Olivia's Doppelgänger. |
-| [Icon] | **True Bullet** | The truth kills, but a bullet is much faster. | Defeat Karin in her human form. |
-| [Icon] | **Slice and Dice** | You knew you'd end up like this. Doctor's orders. | Defeat Daan in his human form. |
-| [Icon] | **Industrial Revolution** | The body is a machine, and you just permanently dismantled this one. | Defeat Abella in her human form. |
-| [Icon] | **Forget Me Not** | Everyone else already has. Now you're just making it permanent. | Defeat Olivia in her human form. |
-| [Icon] | **Bare Fist** | Roll with the punches. Unfortunately for him, yours hit harder. | Defeat Marcoh in his human form. |
-| [Icon] | **Prodigy** | Talent wasted. Turns out occult knowledge doesn't stop blunt force trauma. | Defeat Marina in her human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Taking Out the Trash](https://github.com/user-attachments/assets/3317fcaa-c1f9-4a78-b994-d312af8a41db)| **Taking Out the Trash** | He absolutely had it coming. You just did Prehevil a massive favor. | Defeat Caligura in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Karoshi](https://github.com/user-attachments/assets/0ce74717-23ac-471a-9d32-a2751b7c00ff)| **Karoshi** | He was probably going to die of overwork anyway. You just sped up the process. | Defeat Tanaka in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Dishonorable Discharge](https://github.com/user-attachments/assets/3d77cf59-ea57-41f5-a121-4a544a9f67d7)| **Dishonorable Discharge** | He really thought he was the main character of a war movie. You proved him wrong. | Defeat Pav in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Restraining Order](https://github.com/user-attachments/assets/179f2ddd-fe84-4554-bd3d-f329e327771f)| **Restraining Order** | An extreme, yet highly effective way to deal with an obsessive stalker. | Defeat Samarie in her human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_End of the Bloodline](https://github.com/user-attachments/assets/9d08571d-4cd8-4044-bbff-8d6731c27fa1)| **End of the Bloodline** | All those fancy acrobatics and ancient Vinland heritage couldn't outsmart a bullet. | Defeat August in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Macabre Masterchef](https://github.com/user-attachments/assets/75503298-c727-4149-8ea9-a417195c0e82)| **Macabre Masterchef** | His culinary skills were questionable anyway. Time to cancel the cooking show. | Defeat Henryk in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Uvuvwevwevwe  O&#39;saa_](https://github.com/user-attachments/assets/90c455d9-90b1-486d-b5dd-b23345feec12)| **Uvuvwevwevwe... O'saa?** | I'm not even going to try pronouncing his full name. Just hit him. | Defeat O'saa in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Not Humanity&#39;s Strongest](https://github.com/user-attachments/assets/0ad05eea-e543-4299-bfeb-ff0200792d9a)| **Not Humanity's Strongest** | Definitely the wrong Ackerman. No spin attacks or ODM gear will save him here. | Defeat Levi in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Wait, You Can Walk_!](https://github.com/user-attachments/assets/92f4a61c-272a-46a2-b7dc-7e8e43ecbec6)| **Wait, You Can Walk?!** | The absolute betrayal of seeing your clone doing sprints while you're stuck in a wheelchair. | Defeat Olivia's Doppelgänger. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_True Bullet](https://github.com/user-attachments/assets/18ebfc83-d9e2-40ba-a320-1f434f5dc449)| **True Bullet** | The truth kills, but a bullet is much faster. | Defeat Karin in her human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Slice and Dice](https://github.com/user-attachments/assets/004050c4-c507-4b2b-b7db-76608a86388f)| **Slice and Dice** | You knew you'd end up like this. Doctor's orders. | Defeat Daan in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Industrial Revolution](https://github.com/user-attachments/assets/4f8c33d0-5fae-448c-b615-b41a36b8dfc8)| **Industrial Revolution** | The body is a machine, and you just permanently dismantled this one. | Defeat Abella in her human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Forget Me Not](https://github.com/user-attachments/assets/0e2cf99c-5680-4c3c-a968-e3766d00c50d)| **Forget Me Not** | Everyone else already has. Now you're just making it permanent. | Defeat Olivia in her human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Bare Fist](https://github.com/user-attachments/assets/3a1bb325-e542-44fb-a99a-4a9afbd5587e)| **Bare Fist** | Roll with the punches. Unfortunately for him, yours hit harder. | Defeat Marcoh in his human form. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Prodigy](https://github.com/user-attachments/assets/d6f5c231-4778-4fc8-a652-6d0ffaa195e3)| **Prodigy** | Talent wasted. Turns out occult knowledge doesn't stop blunt force trauma. | Defeat Marina in her human form. |
 
 ### 🗺️ Prehevil Sightseeing (Landmarks & Dungeons)
 
