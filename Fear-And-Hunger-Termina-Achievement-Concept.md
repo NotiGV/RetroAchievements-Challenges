@@ -103,14 +103,14 @@ Because no tourist guide is complete without a visit to a blood-soaked church an
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **House Hunting** | The hospitality here involves getting chased by a man with an axe. | Enter the Mayor's Manor. |
-| [Icon] | **Health Code Violation** | The rent is cheap, but the neighbors are a bit clingy. And moldy. | Enter the White Mold Apartments. |
-| [Icon] | **School of Hard Knocks** | This place makes you wish you were actually an orphan so you wouldn't have to explain it to your parents. | Enter the Orphanage. |
-| [Icon] | **Abra Kadabra** | Buying cursed trinkets from a guy who looks like he belongs in a circus. | Enter Dr. Kefer's Tricks & Magic. |
-| [Icon] | **Thoughts and Prayers** | You came seeking salvation, but all you found were creepy priests and a basement full of blood. | Enter the Church of Alll-mer. |
-| [Icon] | **Stairway to Hell** | A scenic climb with a terrible view at the top. | Enter The Hollow Tower. |
-| [Icon] | **Sacrificial Lamb** | I don't think this is what they meant by "finding religion." | Enter the Altar of the One God. |
-| [Icon] | **Urban Exploration** | Poking around in the darkest, most decrepit ruins you could possibly find. | Enter the Foundations of Decay. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-House Hunting](https://github.com/user-attachments/assets/e96f265b-ccfa-473b-8c5a-86c66d3f9769)| **House Hunting** | The hospitality here involves getting chased by a man with an axe. | Enter the Mayor's Manor. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Health Code Violation](https://github.com/user-attachments/assets/8b4cf76f-1040-435e-9243-11cb1827cf58)| **Health Code Violation** | The rent is cheap, but the neighbors are a bit clingy. And moldy. | Enter the White Mold Apartments. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-School of Hard Knocks](https://github.com/user-attachments/assets/7da6ae3a-b3b6-4e9c-ba06-ad4608142b42)| **School of Hard Knocks** | This place makes you wish you were actually an orphan so you wouldn't have to explain it to your parents. | Enter the Orphanage. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Abra Kadabra](https://github.com/user-attachments/assets/5028c21d-79c0-4e9d-b2c6-94636a055a96)| **Abra Kadabra** | Buying cursed trinkets from a guy who looks like he belongs in a circus. | Enter Dr. Kefer's Tricks & Magic. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Thoughts and Prayers](https://github.com/user-attachments/assets/a30015a6-09ef-4855-bf84-1c78236c64bb)| **Thoughts and Prayers** | You came seeking salvation, but all you found were creepy priests and a basement full of blood. | Enter the Church of Alll-mer. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Stairway to Hell](https://github.com/user-attachments/assets/9aa549fa-89d1-49e0-a8a1-391c1d0ae5fb)| **Stairway to Hell** | A scenic climb with a terrible view at the top. | Enter The Hollow Tower. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Sacrificial Lamb](https://github.com/user-attachments/assets/d7e6932e-30f3-4a73-856c-f7f7faddaf43)| **Sacrificial Lamb** | I don't think this is what they meant by "finding religion." | Enter the Altar of the One God. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Urban Exploration](https://github.com/user-attachments/assets/3f4a6dca-6fef-4729-a71b-b98f63e80831)| **Urban Exploration** | Poking around in the darkest, most decrepit ruins you could possibly find. | Enter the Foundations of Decay. |
 
 ### 🎒 The Prehevil Scavenger (Weapons, Items & Lore)
 
@@ -135,9 +135,9 @@ Choosing your difficulty in Prehevil is just choosing the flavor of your own tea
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **The Chicken Hat** | You survived the "tutorial". Your complimentary humiliating hat is in the mail. | Beat the game on Easy(er) mode. |
-| [Icon] | **The Intended Experience** | You beat the game exactly how the creator intended: with blood, sweat, and a broken keyboard. | Beat the game on Fear & Hunger mode. |
-| [Icon] | **Therapy is Actually Cheaper** | Starting on Day 3 Night with almost no saves just to suffer. Seriously, seek professional help. | Beat the game on Masoχ-S/M mode. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Chicken Hat](https://github.com/user-attachments/assets/9bef7341-9ebb-4f2d-8f3f-9f1cacb7aa92)| **The Chicken Hat** | You survived the "tutorial". Your complimentary humiliating hat is in the mail. | Beat the game on Easy(er) mode. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Intended Experience](https://github.com/user-attachments/assets/03c19268-01f1-44d8-a7ec-c4231a9c7746)| **The Intended Experience** | You beat the game exactly how the creator intended: with blood, sweat, and a broken keyboard. | Beat the game on Fear & Hunger mode. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Therapy is Actually Cheaper](https://github.com/user-attachments/assets/ab2f60f7-0d01-486e-be45-fcc7f91b286e)| **Therapy is Actually Cheaper** | Starting on Day 3 Night with almost no saves just to suffer. Seriously, seek professional help. | Beat the game on Masoχ-S/M mode. |
 
 ### ⚙️ The Endings (Where nobody truly wins)
 
