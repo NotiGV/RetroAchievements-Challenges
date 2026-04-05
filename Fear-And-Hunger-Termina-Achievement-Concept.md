@@ -59,21 +59,21 @@ The heavy hitters. You didn't really want to keep all your limbs anyway, right?
 
 | Icon | Achievement Name | Description | Real Condition |
 | :--- | :--- | :--- | :--- |
-| [Icon] | **¡Un Forastero!** | You walked into the wrong alley, stranger. Where is everyone going? Bingo? | Survive and defeat The Mob. |
-| [Icon] | **Terrifier** | He's just trying to show you a magic trick... with a very large, rusty needle. | Defeat Needles. |
-| [Icon] | **My Girl, Is That You?** | You've grown so much! And by "grown", I mean "became a multi-eyed cosmic horror". | Defeat the Moonless Beast in the Foundations of Decay. |
-| [Icon] | **Cleric Beast Origins** | A towering beast with an asymmetrical arm swinging wildly? A hunter must hunt. | Defeat Rancid the Sergal. |
-| [Icon] | **I Know You...** | We met in a dungeon a few centuries ago, right? You haven't aged well, Chambara. | Summon and defeat the Tormented One. |
-| [Icon] | **Toxic Squeakers** | You walked into the wrong lobby, and the whole squad is ready to grief you. | Defeat the Ratkin gang. |
-| [Icon] | **Employee of the Month** | Time to file a formal complaint to the festival's organizer. | Defeat Per'kele. |
-| [Icon] | **Human Centipede Simulator** | Some arts and crafts projects go too far. | Defeat Stitches. |
-| [Icon] | **A Heartless Encounter** | Beating up a chained woman in a basement. Are we sure we are the good guys? | Summon and defeat the Heartless One. |
-| [Icon] | **War Never Changes** | Bringing a sword to a tank fight. And winning. | Defeat the Platoon & Sylvian Trooper. |
-| [Icon] | **History Repeats Itself** | How many times do we have to teach you this lesson, Le'garde? | Defeat Kaiser. |
-| [Icon] | **So... Where Are the Kids?** | The worst headmaster in history, and that's saying a lot considering this town. | Defeat Father Hugo. |
-| [Icon] | **My Little Pony** | Friendship is magic, but a shotgun blast to the face is more effective. | Defeat the Centaur. |
-| [Icon] | **A Terrifying Presence...** | Just when you thought the Crow Mauler was bad, now there's two of them. | Encounter and defeat the Gull bros. |
-| [Icon] | **Cat-tastrophe** | He's still smiling... even while you beat him up. | Defeat Pocketcat (Original). |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_¡Un Forastero!](https://github.com/user-attachments/assets/3390c388-d5e5-49fc-a8c9-724338ff074e)| **¡Un Forastero!** | You walked into the wrong alley, stranger. Where is everyone going? Bingo? | Survive and defeat The Mob. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Terrifier](https://github.com/user-attachments/assets/deba6dc6-cc6f-440e-ab0c-9f57d001a543)| **Terrifier** | He's just trying to show you a magic trick... with a very large, rusty needle. | Defeat Needles. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-My Girl, Is That You_](https://github.com/user-attachments/assets/05ee55d3-6d2b-4867-a10a-ffa8618cf09e)| **My Girl, Is That You?** | You've grown so much! And by "grown", I mean "became a multi-eyed cosmic horror". | Defeat the Moonless Beast in the Foundations of Decay. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Cleric Beast Origins](https://github.com/user-attachments/assets/3fdabe3a-77c7-49a2-b8b6-bdb1f0ff039a)| **Cleric Beast Origins** | A towering beast with an asymmetrical arm swinging wildly? A hunter must hunt. | Defeat Rancid the Sergal. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-I Know You](https://github.com/user-attachments/assets/215b4d0c-b47a-4969-b83f-e22f6ccfba1e)| **I Know You...** | We met in a dungeon a few centuries ago, right? You haven't aged well, Chambara. | Summon and defeat the Tormented One. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Toxic Squeakers](https://github.com/user-attachments/assets/d6a39ca1-74fb-494e-8f13-749c359ce516)| **Toxic Squeakers** | You walked into the wrong lobby, and the whole squad is ready to grief you. | Defeat the Ratkin gang. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Employee of the Month](https://github.com/user-attachments/assets/660e7f5d-0fae-46f0-9913-6d336cff29fd)| **Employee of the Month** | Time to file a formal complaint to the festival's organizer. | Defeat Per'kele. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Human Centipede Simulator](https://github.com/user-attachments/assets/0639ee45-65e9-4c94-a698-565d1897cd07)| **Human Centipede Simulator** | Some arts and crafts projects go too far. | Defeat Stitches. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-A Heartless Encounter](https://github.com/user-attachments/assets/2ff171f0-940a-4f17-86aa-2906eedb498c)| **A Heartless Encounter** | Beating up a chained woman in a basement. Are we sure we are the good guys? | Summon and defeat the Heartless One. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_War Never Changes](https://github.com/user-attachments/assets/51cbe1d4-489f-42ea-b6a7-ee9d1760b7da)| **War Never Changes** | Bringing a sword to a tank fight. And winning. | Defeat the Platoon & Sylvian Trooper. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_History Repeats Itself](https://github.com/user-attachments/assets/19352c6b-abea-4f04-b68a-c3fc0a78a889)| **History Repeats Itself** | How many times do we have to teach you this lesson, Le'garde? | Defeat Kaiser. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-So  Where Are the Kids_](https://github.com/user-attachments/assets/0de4fb61-a29f-4336-aff0-0e766ec50e74)| **So... Where Are the Kids?** | The worst headmaster in history, and that's saying a lot considering this town. | Defeat Father Hugo. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_My Little Pony](https://github.com/user-attachments/assets/89904113-b010-4daa-b21b-a894fc037fad)| **My Little Pony** | Friendship is magic, but a shotgun blast to the face is more effective. | Defeat the Centaur. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_A Terrifying Presence](https://github.com/user-attachments/assets/fed7335d-b586-4bf9-ba95-008d02553964)| **A Terrifying Presence...** | Just when you thought the Crow Mauler was bad, now there's two of them. | Encounter and defeat the Gull bros. |
+| ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Cat-tastrophe](https://github.com/user-attachments/assets/b611dfd0-fa13-4c9f-aa5c-8d16df9b59aa)| **Cat-tastrophe** | He's still smiling... even while you beat him up. | Defeat Pocketcat (Original). |
 
 ### 🔪 PvP Enabled (The Human Contestants & Clones)
 
