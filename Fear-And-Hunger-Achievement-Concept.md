@@ -172,4 +172,4 @@ Hope you enjoyed the list!! :D
 ## 📊 Download the Achievement Tracker
 Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the dungeons! 
 
-👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26326849/Fearn.and.hunger_The.Ultimate.Achievement.Set-NotiGV.xlsx)**
+👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512466/Fear.and.hunger.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
