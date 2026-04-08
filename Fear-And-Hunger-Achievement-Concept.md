@@ -173,3 +173,12 @@ Hope you enjoyed the list!! :D
 Want to keep track of your descent into madness? I created an interactive tracker where you can check off your progress as you suffer through the dungeons! 
 
 👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512466/Fear.and.hunger.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
+
+## 🏆 Mastery Badge (Platinum Trophy)
+You actually did it? You suffered through every rigged coin flip, lost countless limbs and stared into the abyss of the dungeons until it stared back... and all you got was this shiny digital badge. 
+
+But hey, you've officially mastered the art of suffering! Thank you for playing along and enduring this torturous achievement set. Wear this badge with pride, you absolutely earned it (and you should probably seek some professional therapy now).
+
+👉 **Claim your ultimate reward:**
+
+<img width="800" height="800" alt="Fear   Hunger Achievements - Mastery Bagde - ThatGVguy " src="https://github.com/user-attachments/assets/dff3e7f9-95c8-4a63-bebc-197118431b96" />
