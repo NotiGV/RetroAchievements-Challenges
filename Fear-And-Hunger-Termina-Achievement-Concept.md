@@ -24,6 +24,11 @@ The train dropped you off, but the nightmare is just beginning. Here are the mil
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Look at me, I&#39;m Olivia now](https://github.com/user-attachments/assets/0d85b116-926a-4d0b-ab22-ad7a91a44ea0)| **Look at me, I'm Olivia now** | On the bright side, you'll never have to worry about buying shoes again. | Lose both legs on your main character (playing as anyone except Olivia). |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Bankruptcy](https://github.com/user-attachments/assets/0c61cde3-76ec-4671-94d6-514adf0fe4a6)| **Bankruptcy** | The ultimate market crash. You watched the salaryman's career get permanently cut short. | Witness Tanaka's death for the first time. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Mage and the Dungeon](https://github.com/user-attachments/assets/24db212d-a8e8-4c10-ab7d-4fa19de05aa0)| **The Mage and the Dungeon** | Be proud; many have failed this test. Or just died of hunger. | Survive the dungeon in O'saa's backstory. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Intrusive Thoughts Won (Again)" src="https://github.com/user-attachments/assets/7fef80ba-a6c9-4947-a99a-a9e864b78ec9" />| **Intrusive Thoughts Won (Again)** | You just HAD to jump down that disgusting hole. You knew exactly what would happen this time, didn't you? | Jump into the inescapable toilet pit. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Watch Your Step" src="https://github.com/user-attachments/assets/699676d6-d434-4344-b6c6-cd21b3b6da28" />| **Watch Your Step** | Prehevil's street maintenance is extremely aggressive. | Step on a landmine. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 TerminaAchievements-Overslept" src="https://github.com/user-attachments/assets/19b09552-8b07-4aaf-8065-19dfc88ae8af" />| **Overslept** | Hitting the snooze button until you literally turn into a cosmic horror. | Sleep your way to Day 4 and Moonscorch.|
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Time&#39;s Up!" src="https://github.com/user-attachments/assets/6b2ef680-29e6-44ce-80de-16cc68ae3879" />| **Time's Up!** | The moon waits for no one. | Run out of time and Moonscorch in Masoχ-S/M mode. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Rude Awakening" src="https://github.com/user-attachments/assets/f644d4e6-4362-46fe-a049-43ff02b8dc98" />| **Rude Awakening** | No rest for the wicked. Or the tired. | Get ambushed while sleeping in a bed. |
 
 ### 👹 The Welcoming Committee & The Moonscorched
 
@@ -52,6 +57,7 @@ The lovely locals and your former friends you will meet during your stay. Spoile
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Salaryman Snaps](https://github.com/user-attachments/assets/f70804fd-352f-4c71-a909-435eaff7683b)| **The Salaryman Snaps** | Corporate burnout hits differently in Prehevil. | Defeat Judgement. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Hell&#39;s Kitchen](https://github.com/user-attachments/assets/6b65669e-819f-40a8-bbe5-d19d9e5ddcab)| **Hell's Kitchen** | This pie is raw, and so is my flesh. | Defeat Gentleman. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Inside and Out](https://github.com/user-attachments/assets/f490fdb4-c7f9-4a09-a3d0-74c962f0eb21)| **Inside and Out** | He finally looks exactly like his personality. | Defeat Monster. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 TerminaAchievements-Road Rage" src="https://github.com/user-attachments/assets/cfe05787-0e52-463a-8d07-fd5f613ae125" />| **Road Rage** | He definitely doesn't have a valid driver's license. | Defeat the Rifleman on the truck. |
 
 ### 💀 The VIP Guests (Main Bosses & Oddities)
 
@@ -75,6 +81,8 @@ The heavy hitters. You didn't really want to keep all your limbs anyway, right?
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_A Terrifying Presence](https://github.com/user-attachments/assets/fed7335d-b586-4bf9-ba95-008d02553964)| **A Terrifying Presence...** | Just when you thought the Crow Mauler was bad, now there's two of them. | Encounter and defeat the Gull bros. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Cat-tastrophe](https://github.com/user-attachments/assets/b611dfd0-fa13-4c9f-aa5c-8d16df9b59aa)| **Cat-tastrophe** | He's still smiling... even while you beat him up. | Defeat Pocketcat (Original). |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Dawn of the Final Day](https://github.com/user-attachments/assets/9456d181-a080-40c5-a3d6-825cadb5c3d3)| **Dawn of the Final Day** | 72 hours, a creepy face in the sky, and a terrible fate. Turns out you didn't need an ocarina to stop it. | Defeat Rher at the top of the Hollow Tower. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Machine God" src="https://github.com/user-attachments/assets/44d5a769-c550-45be-9101-1f3ad1710f8b" />| **Machine God** | Unplugging the internet router, 1940s style. | Defeat Logic. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 TerminaAchievements-Bremen&#39;s Finest" src="https://github.com/user-attachments/assets/d0be25d6-31a4-4c99-bc78-c376afe8da3e" />| **Bremen's Finest** | You just wiped out an entire military division. Hand-to-hand. | Defeat the Maso Platoon encounter. |
 
 ### 🔪 PvP Enabled (The Human Contestants & Clones)
 
@@ -97,6 +105,9 @@ The festival rules are clear: there can be only one winner. Sometimes you don't 
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Forget Me Not](https://github.com/user-attachments/assets/0e2cf99c-5680-4c3c-a968-e3766d00c50d)| **Forget Me Not** | Everyone else already has. Now you're just making it permanent. | Defeat Olivia in her human form. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Bare Fist](https://github.com/user-attachments/assets/3a1bb325-e542-44fb-a99a-4a9afbd5587e)| **Bare Fist** | Roll with the punches. Unfortunately for him, yours hit harder. | Defeat Marcoh in his human form. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-_Prodigy](https://github.com/user-attachments/assets/d6f5c231-4778-4fc8-a652-6d0ffaa195e3)| **Prodigy** | Talent wasted. Turns out occult knowledge doesn't stop blunt force trauma. | Defeat Marina in her human form. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Corporate Identity Theft" src="https://github.com/user-attachments/assets/995c67a8-056c-443e-bf2b-6d9f49d8a59e" />| **Corporate Identity Theft** | He really can't catch a break, not even from himself. | Defeat Tanaka's Doppelgänger. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Identity Crisis" src="https://github.com/user-attachments/assets/4ffd54b8-a97a-4c92-8b83-b94b880210cd" />| **Identity Crisis** | There's only room for one dark priestess in this town. | Defeat Marina's Doppelgänger. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Double Withdrawal" src="https://github.com/user-attachments/assets/7704133b-f31f-4504-a83c-e14f4dd47dd1" />| **Double Withdrawal** | Facing your inner demons is one thing, shooting them is another. | Defeat Levi's Doppelgänger. |
 
 ### 🗺️ Prehevil Sightseeing (Landmarks & Dungeons)
 
@@ -112,6 +123,10 @@ Because no tourist guide is complete without a visit to a blood-soaked church an
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Stairway to Hell](https://github.com/user-attachments/assets/9aa549fa-89d1-49e0-a8a1-391c1d0ae5fb)| **Stairway to Hell** | A scenic climb with a terrible view at the top. | Enter The Hollow Tower. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Sacrificial Lamb](https://github.com/user-attachments/assets/d7e6932e-30f3-4a73-856c-f7f7faddaf43)| **Sacrificial Lamb** | I don't think this is what they meant by "finding religion." | Enter the Altar of the One God. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Urban Exploration](https://github.com/user-attachments/assets/3f4a6dca-6fef-4729-a71b-b98f63e80831)| **Urban Exploration** | Poking around in the darkest, most decrepit ruins you could possibly find. | Enter the Foundations of Decay. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Night at the Museum" src="https://github.com/user-attachments/assets/e908f851-c56b-44eb-8a03-f1be33364f47" />| **Night at the Museum** | Please do not touch the ancient, cursed exhibits. | Enter the Museum. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Lost in the Woods" src="https://github.com/user-attachments/assets/d3c3cc9d-4bf2-4d83-ae70-278aea8b97ef" />| **Lost in the Woods** | If the traps don't get you, the centaurs will. | Enter the Deep Woods. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Quiet Reading Time" src="https://github.com/user-attachments/assets/37d02d59-48fe-477c-a290-436060c68eac" />| **Quiet Reading Time** | The only place in Prehevil where people actually use their inside voices. | Enter the Bookstore. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Winchester" src="https://github.com/user-attachments/assets/5871f9ec-3d0b-4da3-a122-cfa587a4dd70" />| **The Winchester** | Grab a drink and wait for this whole festival to blow over. | Reach the PRHVL Bop safehouse. |
 
 ### 🎒 The Prehevil Scavenger (Weapons, Items & Lore)
 
@@ -129,6 +144,12 @@ If it isn't nailed down, it goes in your inventory. Even if it's dirty, cursed, 
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-DIY Massacre](https://github.com/user-attachments/assets/05996544-70aa-4d4a-a5aa-5217a8f732b8)| **DIY Massacre** | Who needs ancient magic when you have power tools and duct tape? | Craft the Meat grinder. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-A Relic from the Past](https://github.com/user-attachments/assets/f582e8f5-dffa-4724-86ea-63876b4c5152)| **A Relic from the Past** | Wait, what is a northern Vinland spear doing in Bohemia? | Obtain the Sergal spear. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Pawn Shop of the Damned](https://github.com/user-attachments/assets/3dd0dfd9-eecd-45e1-8af3-f783e30dac19)| **Pawn Shop of the Damned** | Trading rusty pearls to a radiating cosmic entity in exchange for a spiked bat. What a wonderful economy. | Buy the Mauler from the Radiating One. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-What Does the Goat Say_" src="https://github.com/user-attachments/assets/054a2a41-6e50-472e-b300-141b1a9c1c2f" />| **What Does the Goat Say?** | Turns out Black Kalev has some very strong theological opinions on sulfur. | Hear Black Kalev's speech on sulfur. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Spread the Joy" src="https://github.com/user-attachments/assets/c4f56f53-2a09-46a5-84df-a887d9fc9126" />| **Spread the Joy** | Giving a creepy mask to a mumbling man. A smile to die for. | Give the Joy Mask to the Mumbling Man. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Three Wishes" src="https://github.com/user-attachments/assets/2ad95e66-9ab5-4de0-b4bf-34c63303a4fc" />| **Three Wishes** | Rubbing a strange lamp. Spoiler alert: a genie doesn't come out. | Rub the mysterious lamp. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Smell of Decay" src="https://github.com/user-attachments/assets/b3bf8579-b4a8-436c-8b5b-6d7ab32ec2e4" />| **The Smell of Decay** | You really should have disposed of that body properly. | Witness the decayed Sergal on Day 3. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-Ghost Hunter" src="https://github.com/user-attachments/assets/438ede8c-6dc7-43a6-9851-bb283a205b3d" />| **Ghost Hunter** | Who you gonna call? Probably an exorcist. | Find all ghost items using the Talking Board. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Butterfly Effect" src="https://github.com/user-attachments/assets/7ff5c105-7221-4f9b-b673-20e007da7752" />| **The Butterfly Effect** | Accessorizing is important, even in the apocalypse. | Craft the complete Blue noctuid necklace. |
 
 ### 💀 Glutton for Punishment (Difficulties)
 
@@ -156,6 +177,7 @@ The 3 days are over. Time to face the music, upload your mind to the internet, o
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Touching Grass](https://github.com/user-attachments/assets/529c0ab4-7335-477a-9b5a-13105908c376)| **Touching Grass** | After fighting cosmic horrors, classifying ferns doesn't seem so bad. | Reach Ending B playing as Olivia. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Eye of the Tiger](https://github.com/user-attachments/assets/cf16d9fd-94da-454a-bf78-3c2deb606b5d)| **Eye of the Tiger** | Training the next generation to punch eldritch horrors in the face. Yo, Adrian, we survived! | Reach Ending B playing as Marcoh. |
 | ![ThatGVguy-Fear   Hunger 2 Termina-Achievements-Pulitzer Prize Material](https://github.com/user-attachments/assets/5f5ceb0e-d8e9-4398-b611-7587937ad706)| **Pulitzer Prize Material** | Writing an exposé on ancient gods. I'm sure the general public will *totally* believe you. | Reach Ending B playing as Karin. |
+| <img width="800" height="800" alt="ThatGVguy-Fear   Hunger 2 Termina-Achievements-The Golden Ending" src="https://github.com/user-attachments/assets/6cac94af-24b0-434d-bdd8-ec3deafd69e1" />| **The Golden Ending** | The ultimate flex against the old gods. Miro is probably proud of you. | Reach Ending A with all 13 contestants surviving. |
 
 ### 📝 Author's Note :D
 
