@@ -174,6 +174,12 @@ Want to keep track of your descent into madness? I created an interactive tracke
 
 👉 **Download the Official Tracker (.xlsx) Here: [Fear & Hunger Ultimate Achievement Set Official Tracker](https://github.com/user-attachments/files/26512466/Fear.and.hunger.-.The.Ultimate.Achievement.Set-ThatGVguy.xlsx)**
 
+## 🖨️ The Old-School Way (Printable Tracker)
+Do you prefer the authentic, old-school RPG experience? Grab a pen (or some blood) and check off your suffering by hand. I've created a printer-friendly PDF version of the achievement set just for you!
+
+👉 **Download the Printable PDF Here: [Printable Fear & Hunger Achievement Tracker](https://github.com/user-attachments/files/26879626/Fear.and.Hunger.-.Ultimate.Achievement.Set.Print.-.ThatGVguy.pdf)**
+
+
 ## 🏆 Mastery Badge (Platinum Trophy)
 You actually did it? You suffered through every rigged coin flip, lost countless limbs and stared into the abyss of the dungeons until it stared back... and all you got was this shiny digital badge. 
 
