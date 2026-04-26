@@ -1,4 +1,4 @@
-![Resident-Evil-The-last-Challenge-custom-RE-notigv](https://github.com/user-attachments/assets/75b406b4-58b1-4f6d-9853-fd170cd9972a)
+<img width="4449" height="9124" alt="Resident Evil The last Challenge-ThatGVguy" src="https://github.com/user-attachments/assets/844089fa-ebf1-401d-b88a-72a67b25095d" />
 
 # Resident Evil: The Last Challenge
 **By ThatGVguy**
@@ -6,7 +6,7 @@
 A fast, no-nonsense guide to the ultimate Resident Evil marathon. We are not just beating the games; we are unlocking the entire franchise like a massive RPG skill tree! :D
 
 **Includes:**
-* The exact progression order from RE0 to RE9.
+* The exact progression order from RE1 to RE9.
 * Direct links to official RetroAchievements sets.
 * Clear rules for Prerequisites, Optional routes and Modern Remakes.
 
@@ -25,18 +25,8 @@ Before we start the timeline, you need to understand how we progress. You will n
 
 ---
 
-## 🚂 The Origin (RE0)
-We start on the Ecliptic Express. Don't obsess over the achievements on your first playthrough, just enjoy the ride! If you get stuck, the RA community can help :D
-
-**Play:** [Resident Evil 0 (GameCube)](https://retroachievements.org/game/2466)
-
-**When you MASTER this game, you unlock:**
-* **RE0 HD (Steam/Modern):** Mastered (Optional).
-* **The right to play the Resident Evil 1 Classics.**
-
----
-
 ## 🏰 The Mansion Incident (RE1)
+We start on the Spencer Mansion. Don't obsess over the achievements on your first playthrough, just enjoy the ride! If you get stuck, the RA community can help :D
 You only need to master ONE of these versions to proceed. Pick your favorite! :D
 
 **Play one of these:**
@@ -45,9 +35,20 @@ You only need to master ONE of these versions to proceed. Pick your favorite! :D
 * [RE: Deadly Silence (DS)](https://retroachievements.org/game/16274)
 * [RE: Director's Cut (PS1)](https://retroachievements.org/game/11268)
 
-**When you MASTER your chosen version, you unlock two paths:**
+**When you MASTER your chosen version, you unlock three paths:**
+* Resident Evil 0 (Gamecube)
 * Resident Evil 1 Remake (GameCube)
 * Resident Evil 3: Nemesis (Classic)
+
+---
+
+## 🚂 The Origin (RE0)
+The prequel to the Spencer Mansion events, we'll get to meet Billy and discover more Umbrella lore :D
+
+**Play:** [Resident Evil 0 (GameCube)](https://retroachievements.org/game/2466)
+
+**When you MASTER this game, you unlock:**
+* **RE0 HD (Steam/Modern):** Mastered (Optional).
 
 ---
 
