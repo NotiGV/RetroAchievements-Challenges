@@ -18,9 +18,40 @@ Let's get those achievements!! :D
 First things first! We need to create an account so the emulators know where to send your trophies. 
 
 1. Go to **[RetroAchievements.org](https://retroachievements.org/)**.
+
+<img width="3440" height="1107" alt="ThatGVguy - RA - Step 1" src="https://github.com/user-attachments/assets/e97d7be6-35dd-4ef6-8e0f-3b69b9bf0b44" />
+
+<img width="2956" height="1204" alt="ThatGVguy - RA - Step 1 (2)" src="https://github.com/user-attachments/assets/e762315f-1cde-4913-ab05-b30fff343b51" />
+
+<img width="2911" height="1238" alt="ThatGVguy - RA - Step 1 (3)" src="https://github.com/user-attachments/assets/f27607f7-e1a9-4353-9ebd-5e3a3164185e" />
+
 2. Click on **Sign Up** in the top right corner and fill in your details.
+
+<img width="121" height="46" alt="ThatGVguy - RA - Step 1 (4)" src="https://github.com/user-attachments/assets/736e8cde-f861-4a2d-a48e-3133fcaf2beb" />
+
+<img width="1986" height="728" alt="ThatGVguy - RA - Step 1 (5)" src="https://github.com/user-attachments/assets/70e571bb-cff8-4f21-bb06-4f783d8f19e6" />
+
+<img width="1996" height="666" alt="ThatGVguy - RA - Step 1 (6)" src="https://github.com/user-attachments/assets/f1ab32eb-d3ad-49e6-8f30-4cc5a7b36160" />
+
+<img width="1983" height="683" alt="ThatGVguy - RA - Step 1 (7)" src="https://github.com/user-attachments/assets/cce4f869-4864-480a-8534-492165465db9" />
+
+<img width="146" height="46" alt="ThatGVguy - RA - Step 1 (8)" src="https://github.com/user-attachments/assets/6e5806cc-1953-45ca-b254-8b2a044b3856" />
+
 3. **Important:** You will receive an email instantly. Go to your inbox and click **Verify my email**. Your account won't work without this!
+
+<img width="1060" height="55" alt="ThatGVguy - RA - Step 1 (9)" src="https://github.com/user-attachments/assets/23b0be05-4360-47c1-8651-ecce401caab2" />
+
+<img width="2914" height="958" alt="ThatGVguy - RA - Step 1 (10)" src="https://github.com/user-attachments/assets/31c3ed75-ab97-4add-8c72-c450569e1df6" />
+
 4. Head back to the site, click **Sign In**, and log in.
+
+<img width="2911" height="1238" alt="ThatGVguy - RA - Step 1 (11)" src="https://github.com/user-attachments/assets/bca04344-e24f-445e-8d0a-58a035ec025c" />
+
+<img width="119" height="39" alt="ThatGVguy - RA - Step 1 (12)" src="https://github.com/user-attachments/assets/abc397af-0765-441b-8441-42db3a0f0b7f" />
+
+<img width="2024" height="865" alt="ThatGVguy - RA - Step 1 (13)" src="https://github.com/user-attachments/assets/1a4d53a1-222b-4c31-8684-d1e7e463e7c4" />
+
+<img width="2004" height="1257" alt="ThatGVguy - RA - Step 1 (14)" src="https://github.com/user-attachments/assets/f3dec6a3-0ce0-47af-b837-b582d77abf8e" />
 
 ---
 
