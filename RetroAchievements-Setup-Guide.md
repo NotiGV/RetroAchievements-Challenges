@@ -88,10 +88,31 @@ For a more relaxed experience.
 ## 👾 Step 2: RetroArch Setup
 RetroArch is unique because it runs many consoles inside one app using "Cores".
 
+<img width="512" height="512" alt="ThatGVguy - RA - Retroarch (1)" src="https://github.com/user-attachments/assets/16e8d61c-5bcf-4b84-a7d4-997547b3e1c4" />
+
 1. Go to **Settings** -> **Achievements**.
+
+<img width="1806" height="665" alt="ThatGVguy - RA - Retroarch (5)" src="https://github.com/user-attachments/assets/bae38abb-e062-47ca-a3ae-ea76ca2304ec" />
+
+<img width="1806" height="733" alt="ThatGVguy - RA - Retroarch (6)" src="https://github.com/user-attachments/assets/a37beb59-dc7b-416f-acda-d9900d64bdeb" />
+
 2. Toggle the option to **ON**.
+
+<img width="3183" height="302" alt="ThatGVguy - RA - Retroarch (7)" src="https://github.com/user-attachments/assets/0e448dcf-cd69-41f9-a200-fdd48f937327" />
+
 3. Enter your Username and Password.
+
+<img width="3164" height="644" alt="ThatGVguy - RA - Retroarch (8)" src="https://github.com/user-attachments/assets/7c841366-0003-45e5-8f51-51eff5764158" />
+
 4. **CRITICAL STEP (Saving Your Config):** Go back to the **Main Menu** -> **Configuration File** -> **Save Current Configuration**. If you don't do this, you will lose your login when you close the app!
+
+<img width="1970" height="800" alt="ThatGVguy - RA - Retroarch (9)" src="https://github.com/user-attachments/assets/8da7fa81-b130-4809-908c-0f2d13ff2778" />
+
+<img width="1712" height="742" alt="ThatGVguy - RA - Retroarch (10)" src="https://github.com/user-attachments/assets/2b58ca4f-b730-4458-aa5a-9824666827b3" />
+
+<img width="1437" height="475" alt="ThatGVguy - RA - Retroarch (11)" src="https://github.com/user-attachments/assets/7e777c90-071d-4011-af18-869b9a2f7d33" />
+
+<img width="3172" height="1080" alt="ThatGVguy - RA - Retroarch (12)" src="https://github.com/user-attachments/assets/6723180c-39cf-4259-ad5e-afdda103c393" />
 
 ### Quick Tip: Which Cores Should I Use?
 RetroArch has hundreds of cores, but not all of them work perfectly with achievements. Download these specific cores for the main systems:
