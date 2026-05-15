@@ -64,10 +64,18 @@ This is the pure experience. Just like playing on the original console.
 * **Cons:** You CANNOT use Save States, Rewind, Slow Motion, or Cheats.
 * *Warning: If you accidentally load a Save State, Hardcore Mode will disable itself for that session!*
 
+<img width="376" height="56" alt="ThatGVguy - RA - Hardcore vs Softcore (1)" src="https://github.com/user-attachments/assets/e839af1a-35ca-4c3c-a9c8-52539fa31177" />
+
+<img width="364" height="80" alt="ThatGVguy - RA - Hardcore vs Softcore (2)" src="https://github.com/user-attachments/assets/a832c0f7-59f5-4665-9e9b-ff6d041b8cd2" />
+
 ### Softcore Mode
 For a more relaxed experience.
 * **Pros:** You can use Save States, Rewind and play however you like.
 * **Cons:** You get standard points, and they don't count for the competitive leaderboard.
+
+<img width="264" height="73" alt="ThatGVguy - RA - Hardcore vs Softcore (3)" src="https://github.com/user-attachments/assets/220a302d-52b5-4c88-8888-123ebe7ecc2e" />
+
+<img width="376" height="56" alt="ThatGVguy - RA - Hardcore vs Softcore (4)" src="https://github.com/user-attachments/assets/012cbbec-762a-4951-a85d-639289810031" />
 
 **How to switch (Disable Hardcore):**
 * **RetroArch:** Settings -> Achievements -> Toggle Hardcore Mode to OFF.
