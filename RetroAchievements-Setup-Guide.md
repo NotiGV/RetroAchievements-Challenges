@@ -1,21 +1,27 @@
+*Edit: This is an updated version of the original guide based on your comments. I hope to earn your forgivness for the previous version, but I'm willing to work for it! If you want the full context, you can find it down in the comments. But I know you're here for the guide, so lets get right to it!*
+
+***
+
 ![retroachievements-games-emulation-notigv](https://github.com/user-attachments/assets/41fec4a5-89ea-4194-8ada-d77d73b79b92)
 
 # RetroAchievements: The Complete Setup Guide (RetroArch, PCSX2, DuckStation & More)
 **By ThatGVguy**
 
-A fast, no-nonsense guide to setting up RetroAchievements on all major emulators. Stop guessing and start unlocking trophies! :D
+A fast, no-nonsense guide to setting up RetroAchievements on all major emulators. Stop guessing and start unlocking trophies! The whole point of this guide is so anyone can join this awesome community without breaking thier head watching a thousand outdated YouTube videos. 
+
+So, grab a snack, and let's get those achievements!! :D
 
 **Includes:**
-* Step-by-step setup for RetroArch, DuckStation, PCSX2 (Qt), PPSSPP and Dolphin.
-* How to get the CORRECT ROMs (No-Intro/Redump) so achievements actually work.
-* Troubleshooting tips for common login errors.
-
-Let's get those achievements!! :D
+* Step-by-step setup for RetroArch, DuckStation, PCSX2 Nightly, PPSSPP and Dolphin.
+* How to get the CORRECT games so your achievements actually pop.
+* Troubleshooting tips so you don't throw your controller at the screen.
 
 ---
 
-## 📝 Step 1: Creating Your Account
-First things first! We need to create an account so the emulators know where to send your trophies. 
+## 📝 Step 1: Creating Your Account (Entrando a RA)
+First things first! We need to make an account so the emulators actually know where to send your hard-earned trophies. :D
+
+Open your trusty web browser and search for RetroAchievements...
 
 1. Go to **[RetroAchievements.org](https://retroachievements.org/)**.
 
@@ -37,7 +43,11 @@ First things first! We need to create an account so the emulators know where to 
 
 <img width="146" height="46" alt="ThatGVguy - RA - Step 1 (8)" src="https://github.com/user-attachments/assets/6e5806cc-1953-45ca-b254-8b2a044b3856" />
 
-3. **Important:** You will receive an email instantly. Go to your inbox and click **Verify my email**. Your account won't work without this!
+* **User:** Pick a cool username (this is what people will see on the leaderboards). :D
+* **Email:** Use a real email address (we need this for verification).
+* **Password:** Make sure it's secure!
+
+3. **CRITICAL STEP:** You will get an email from RetroAchievements almost instantly. Go to your inbox and click **Verify my email**. Your account flat out won't work without doing this!
 
 <img width="1060" height="55" alt="ThatGVguy - RA - Step 1 (9)" src="https://github.com/user-attachments/assets/23b0be05-4360-47c1-8651-ecce401caab2" />
 
@@ -53,50 +63,52 @@ First things first! We need to create an account so the emulators know where to 
 
 <img width="2004" height="1257" alt="ThatGVguy - RA - Step 1 (14)" src="https://github.com/user-attachments/assets/f3dec6a3-0ce0-47af-b837-b582d77abf8e" />
 
+Now that we are logged in, we are ready to start messing with the emulators!
+
 ---
 
-## ⚠️ Hardcore vs Softcore Mode (Read This!)
+## ⚠️ Hardcore vs Softcore Mode (Please Read This!)
 
-Before we configure the emulators, you need to decide how you want to play.
+Before we start messing with emulators, you need to decide how much pain you want to endure... I mean, how you want to play!
 
 ### Hardcore Mode (Enabled by Default)
-This is the standard, competitive experience. Just like playing on the original console.
-* **Pros:** You earn the full point value for achievements, unlock mastery badges for your profile, and **it is 100% required if you want to participate in any community Events.**
-* **Cons:** You CANNOT use Save States, Rewind, Slow Motion, or Cheats.
+This is the standard, competitive experience. It's exactly like playing on the original console back in the day, complete with all the frustration of forgetting to save.
+* **Pros:** You earn the full point value for achievements, unlock shiny mastery badges for your profile, and **it is 100% required if you want to participate in any community Events.**
+* **Cons:** You flat out CANNOT use Save States, Rewind, Slow Motion, or Cheats.
 
 <img width="376" height="56" alt="ThatGVguy - RA - Hardcore vs Softcore (1)" src="https://github.com/user-attachments/assets/e839af1a-35ca-4c3c-a9c8-52539fa31177" />
 
 <img width="364" height="80" alt="ThatGVguy - RA - Hardcore vs Softcore (2)" src="https://github.com/user-attachments/assets/a832c0f7-59f5-4665-9e9b-ff6d041b8cd2" />
 
 ### Softcore Mode
-For a more relaxed experience.
-* **Pros:** You can use Save States, Rewind, and play however you like.
-* **Cons:** You only earn half (0.5x) the points, and your progress does not count for competitive leaderboards or site events.
+For a more relaxed experience, or if your reflexes just aren't what they were in 1998.
+* **Pros:** You can use Save States, Rewind, and play however you like without stress.
+* **Cons:** You only earn half (0.5x) the points, and your progress will not count for competitive leaderboards or site events.
 
 <img width="264" height="73" alt="ThatGVguy - RA - Hardcore vs Softcore (3)" src="https://github.com/user-attachments/assets/220a302d-52b5-4c88-8888-123ebe7ecc2e" />
 
 <img width="376" height="56" alt="ThatGVguy - RA - Hardcore vs Softcore (4)" src="https://github.com/user-attachments/assets/012cbbec-762a-4951-a85d-639289810031" />
 
 **How to switch (Disable Hardcore):**
-* **RetroArch:** Settings -> Achievements -> Toggle Hardcore Mode to OFF.
-* **DuckStation / PCSX2:** Settings -> Achievements -> Uncheck Hardcore Mode.
-* **PPSSPP:** Settings -> Tools -> RetroAchievements -> Uncheck Hardcore Mode.
-* **Dolphin:** Tools -> Achievements -> Uncheck Hardcore Mode.
+* **RetroArch:** Go to **Settings -> Achievements** and toggle **Hardcore Mode** to OFF.
+* **DuckStation / PCSX2:** Go to **Settings -> Achievements** and uncheck **Hardcore Mode**.
+* **PPSSPP:** Go to **Settings -> Tools -> RetroAchievements** and uncheck **Hardcore Mode**.
+* **Dolphin:** Go to **Tools -> Achievements** and uncheck **Hardcore Mode**.
 
 ---
-### 🛠️ Important: Emulator Versions & Official Documentation
+### 🛠️ Important: Emulator Versions & Official Docs
 
-One of the most common reasons achievements fail to load is using an outdated emulator. **Stable releases are often too old to support RetroAchievements.** For emulators like PCSX2 (PS2) or Dolphin (GameCube/Wii), you generally need to use the latest **Nightly, Beta, or Development builds** (e.g., Dolphin requires at least version 5.0-17269 or newer). 
+Listen up, because this is the #1 reason achievements fail to load. **Stable releases are often too old to support RetroAchievements.** For emulators like PCSX2 (PS2) or Dolphin (GameCube/Wii), you generally need to be using the latest **Nightly, Beta, or Development builds** (e.g., Dolphin requires at least version 5.0-17269 or newer to work right). 
 
-Because emulator requirements change constantly, **do not guess.** Always refer to the official RetroAchievements documentation for the exact recommended versions and Cores:
-[Official RetroAchievements Emulator Support & Issues Hub](https://docs.retroachievements.org/general/emulator-support-and-issues.html)
-[Dolphin Setup Wiki](https://wiki.dolphin-emu.org/index.php?title=RetroAchievements_Guide)
+Because emulator requirements change constanly, **do not guess.** Always double check the official RetroAchievements documentation for the exact recommended versions and Cores:
+* [Official RetroAchievements Emulator Support & Issues Hub](https://docs.retroachievements.org/general/emulator-support-and-issues.html)
+* [Dolphin Setup Wiki](https://wiki.dolphin-emu.org/index.php?title=RetroAchievements_Guide)
 
-The Cores and Emulators listed below are the standard recommendations, but always check the links above if you run into trouble!
+The Cores and emulators listed below are my standard recommendations, but always check the links above if you run into any trouble!
 ---
 
-## 👾 Step 2: RetroArch Setup
-RetroArch is unique because it runs many consoles inside one app using "Cores".
+## 👾 RetroArch Setup
+RetroArch is awesome but a bit weird because it runs many consoles inside one app using things called "Cores".
 
 <img width="512" height="512" alt="ThatGVguy - RA - Retroarch (1)" src="https://github.com/user-attachments/assets/16e8d61c-5bcf-4b84-a7d4-997547b3e1c4" />
 
@@ -114,7 +126,7 @@ RetroArch is unique because it runs many consoles inside one app using "Cores".
 
 <img width="3164" height="644" alt="ThatGVguy - RA - Retroarch (8)" src="https://github.com/user-attachments/assets/7c841366-0003-45e5-8f51-51eff5764158" />
 
-4. **CRITICAL STEP (Saving Your Config):** Go back to the **Main Menu** -> **Configuration File** -> **Save Current Configuration**. If you don't do this, you will lose your login when you close the app!
+4. **CRITICAL STEP (Saving Your Config):** Go back to the **Main Menu** -> **Configuration File** -> **Save Current Configuration**. DO NOT SKIP THIS! Many people forget this! If you close RetroArch now, you will lose your login and give the emulator amnesia.
 
 <img width="1970" height="800" alt="ThatGVguy - RA - Retroarch (9)" src="https://github.com/user-attachments/assets/8da7fa81-b130-4809-908c-0f2d13ff2778" />
 
@@ -125,7 +137,7 @@ RetroArch is unique because it runs many consoles inside one app using "Cores".
 <img width="3172" height="1080" alt="ThatGVguy - RA - Retroarch (12)" src="https://github.com/user-attachments/assets/6723180c-39cf-4259-ad5e-afdda103c393" />
 
 ### Quick Tip: Which Cores Should I Use?
-RetroArch has hundreds of cores, but not all of them work perfectly with achievements. Download these specific cores for the main systems:
+RetroArch has hundres of cores, but not all of them play nice with achievements. To avoid headaches, download these specific ones for the main systems. They are the most stable and compatible!
 
 | System | Recommended Core |
 | :--- | :--- |
@@ -140,33 +152,38 @@ RetroArch has hundreds of cores, but not all of them work perfectly with achieve
 | **Arcade** | FinalBurn Neo |
 | **PlayStation 1** | SwanStation / Beetle PSX HW |
 
-For full details, please refer to the following link: 
-https://docs.retroachievements.org/general/emulator-support-and-issues.html
+> **Note on this list:** These are my absolute personal favorites for each system, cross-referenced from the [Official RetroAchievements Emulator Support Hub](https://docs.retroachievements.org/general/emulator-support-and-issues.html). The only exception here is the PS1 cores (SwanStation/Beetle)—I actually don't use them at all because, as you'll see later in the guide, I vastly prefer using a standalone app for PS1!
 
 ---
 
-## 💿 The Golden Rule: Validating Your Game Dumps
+## 💿 Validating Your Game Dumps
 
-If you started the game and nothing happened (no "Logged in" message, no achievements), the problem is almost certainly your game file. 
+If you boot up a game and nothing happens (no little "Logged in" message, no achievement list), the problem is almost definetly your game file. 
 
-RetroAchievements requires specific, clean dumps of games to ensure fairness. 
-* **You must dump your legally owned games.** When doing so, ensure your dumps match the standard community hashes (such as "No-Intro" for cartridges or "Redump" for disc-based games) ;) 
-* **Regions and Patches matter!** An achievement set might only work with the USA version of a game, or require a very specific fan-translation patch. 
+RetroAchievements requires specific, clean dumps of games to keep the leaderboards fair and cheat-free. 
+* **You MUST dump your legally owned games.** When you do, make sure your dumps match the standard community hashes (like "No-Intro" for cartridges or "Redump" for disc games) ;) 
+* **Regions and Patches matter a lot!** A specific achievement set might only work with the USA version of a game, or maybe it requires a very specific fan-translation patch to trigger. 
+
+> **A quick personal recomendation:** Honestly, for regions I usually prefer the USA version. But it's a really good practice to look into forum threads and YouTube videos first! That way, when you go out to buy your disc or cartidge to dump it, you'll know exactly what you're getting and have a great experience. I mention this because some games have big changes depending on the region—whether it's extra languages, different framerates, or other random things depending on the game itself.
 
 **Always check the official game page:**
-Go to the game's page on RetroAchievements.org and click on **"Supported Game Files"**. There you will find the exact Hash (the digital fingerprint), region, and patch requirements needed for the achievements to trigger. If your dump's hash doesn't match what is on that list, the achievements will not work.
+Go to the game's page on RetroAchievements.org and click on **"Supported Game Files"**. Right there you'll find the exact Hash (basically the game's digital fingerprint), region, and patch requirements needed for the achievements to trigger. If your dump's hash doesn't match that list, the achievements will stay locked forever.
 
 ---
 
-## 🦆 Step 3: DuckStation (PlayStation 1)
+## 🦆 DuckStation (PlayStation 1) Standalone
+**Wait, why is PS1 in RetroArch AND standalone?** If you already know the difference between a standalone emulator and a core, you can totally skip this part. But let me tell you from my own experence: use DuckStation. It is super reliable, highly customizable, and incredibly intuitive. Of course, if you want to have absolutely everything in one single place (without setting up a separate frontend like EmulationStation), RetroArch is a fine option. But as for me, my preference is always with the little ducky! :D
+
 1. Open DuckStation and go to **Settings**.
-2. Look for the **Achievements** tab on the left side.
+2. Look for the **Achievements** tab on the left side menu.
 3. Click on the **Login** button.
-4. Enter your RetroAchievements Username and Password and click Login again.
+4. Enter your RetroAchievements Username and Password and click Login again to confirm.
 
 ---
 
-## 🌌 Step 4: PCSX2 Nightly (PlayStation 2)
+## 🌌 PCSX2 Nightly (PlayStation 2)
+*(Friendly reminder: Make sure you are using the Nightly build! You might hear people talking about the "Stable" version vs the "Nightly" version. Don't make the same mistake I did and think that Nightly will give you constant problems or crashes just because its brother is called "Stable". In fact, I highly recommend using Nightly because you'll have your emulator completely up to date with the daily hard work of the devs! :D)*
+
 1. Open PCSX2 and go to **Settings**.
 2. Select the **Achievements** tab on the left list.
 3. Enable the checkbox that says **Enable Achievements**.
@@ -174,7 +191,9 @@ Go to the game's page on RetroAchievements.org and click on **"Supported Game Fi
 
 ---
 
-## 🔵 Step 5: PPSSPP (PSP)
+## 🔵 PPSSPP (PSP)
+> **A massive parenthesis about PPSSPP versions:** This emulator has a few different flavors floating around, like the Gold version and other community builds. To be completely honest with you, just stick to the basic version right here: [https://www.ppsspp.org/](https://www.ppsspp.org/). You can absolutely buy the Gold version if you want to show some love and support to the developers, which gets you a cool gold UI background (and once you "buy" it, you have access to it indefinitely). Just keep in mind that the Gold version is NOT a premium version that unlocks extra graphics settings or better performance. It is literally just PPSSPP... but gold! :)
+
 1. Open PPSSPP and go to **Settings**.
 2. Scroll down to **Tools** on the side menu and click on **RetroAchievements**.
 3. Check the box for **Enable Achievements**.
@@ -182,7 +201,11 @@ Go to the game's page on RetroAchievements.org and click on **"Supported Game Fi
 
 ---
 
-## 🐬 Step 6: Dolphin last version (GameCube / Wii)
+## 🐬 Dolphin (GameCube / Wii)
+*(Another friendly reminder: Development/Beta build required!)*
+
+> **Fun fact about Dolphin:** This emulator is pretty special because it pulls double duty by handling two completely different consoles. The awesome part is that once you log into RA here, you instantly have the achievement system enabled for BOTH systems, whether you are booting up a GameCube classic or a Wii game!
+
 1. Open Dolphin and look at the top menu bar.
 2. Click on **Tools** -> **Achievements**.
 3. Check the box that says **Enable RetroAchievements Integration**.
@@ -191,9 +214,21 @@ Go to the game's page on RetroAchievements.org and click on **"Supported Game Fi
 ---
 
 ## 📝 Author's Note :D
-If you made it this far, you are officially ready to turn your nostalgia into trophies! I hope this "Fast Setup" guide helps you focus on playing rather than configuring. I'd love to hear which game you are planning to master first or which console brings back the best memories in the comments below.
+If you made it this far, you are officially ready to turn your nostalgia into trophies! I hope this "Fast Setup" guide helps you focus on playing rather than configuring. 
+
+I'd love to hear which game you are planning to master first or which console brings back the best memories in the comments below.
 
 Happy hunting, and see you on the leaderboards!! :D
+
+Just a heads up, this guide might become obselete in some time because emulators update super fast. But with the links I gave you earlier (and I'll leave them here along with the emulator sites again just in case), you won't have any problems at all!
+
+* [Official RetroAchievements Emulator Support Hub](https://docs.retroachievements.org/general/emulator-support-and-issues.html)
+* [Dolphin Setup Wiki](https://wiki.dolphin-emu.org/index.php?title=RetroAchievements_Guide)
+* [PPSSPP Official Website](https://www.ppsspp.org/)
+* [DuckStation GitHub](https://github.com/stenzek/duckstation) (Credit to: stenzek)
+* [RetroArch Official Website](https://retroarch.com/)
+
+Anyway, you can always comment and ask anything down below. I will answer you, or someone else from the community will drop in to help (seriously, don't be afraid to ask, there are very kind people around these parts!)
 
 ---
 
