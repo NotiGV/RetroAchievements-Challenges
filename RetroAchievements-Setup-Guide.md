@@ -83,7 +83,7 @@ This is the standard, competitive experience. It's exactly like playing on the o
 ### Softcore Mode
 For a more relaxed experience, or if your reflexes just aren't what they were in 1998.
 * **Pros:** You can use Save States, Rewind, and play however you like without stress.
-* **Cons:** You only earn half (0.5x) the points, and your progress will not count for competitive leaderboards or site events.
+* **Cons:** Your progress will not count for competitive leaderboards or site events.
 
 <img width="264" height="73" alt="ThatGVguy - RA - Hardcore vs Softcore (3)" src="https://github.com/user-attachments/assets/220a302d-52b5-4c88-8888-123ebe7ecc2e" />
 
